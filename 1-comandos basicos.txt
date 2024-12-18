@@ -1,0 +1,23 @@
+//iniciar el repositorio local mente 
+
+-git init
+
+// conectarse al proyecto 
+
+-git remote add origin https://github.com/CesarAndres1999/oneproyect.git
+
+
+// cargar diferentes archivos de manera local
+git add.
+
+// cargar comentarios
+
+git commit -m " comentario"
+
+// cargar a git onile y entrar a la Branch master
+
+git push
+
+// cargar
+
+

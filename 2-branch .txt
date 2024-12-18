@@ -1,0 +1,19 @@
+Branch
+
+ramas master
+
+//conocer en que rama esta 
+
+git Branch
+
+//asignar nombre
+
+git Branch rama1
+
+// cambiar npmbre 
+
+git Branch -m rama1 ramita1
+
+// cambiar de ramas
+
+git checkout ramita1
