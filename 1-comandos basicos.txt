@@ -1,0 +1,6 @@
+//iniciar el repositorio local mente 
+
+-git init
+
+// cargar diferentes archivos 
+git add.
